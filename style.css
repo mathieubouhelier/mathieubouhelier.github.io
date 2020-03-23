@@ -1,0 +1,40 @@
+           body{
+            background-color: #8A897C; 
+            
+        }
+            h1{ 
+                font-family: 'Baloo Chettan 2', serif;
+                font-size: 50px;
+        }
+            img{
+                margin-left: 60px;
+                border-radius: 50px 15px;
+            }
+            .sub-tittle{
+                font-family: 'Baloo Chettan 2', serif;
+                font-size: 25px;
+                margin-left: 20px;
+            }
+            p{
+                font-family: monospace;
+                font-size: 15px;
+            }
+            .lista {
+               
+               width: 300px;
+               background-color: #E2D4BA;
+               padding: 15px 30px;                            
+               border-radius: 4px;
+               margin: 10px;
+               font-size: 15px;
+               font-family: monospace;  
+           }
+            .rectangular {
+               
+               width: 300px;
+               background-color: #E2D4BA;
+               padding: 15px 30px;                            
+               border-radius: 4px;
+               margin: 10px;
+           }
+       
