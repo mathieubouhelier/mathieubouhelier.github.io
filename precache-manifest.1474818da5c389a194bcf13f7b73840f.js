@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab80f8d052e891a0b63382a8f641ef31",
+    "revision": "3327177864bfe26675a4a817aa16ebad",
     "url": "/starwars-redux/index.html"
   },
   {
-    "revision": "5e59516a0f4423bda71f",
+    "revision": "4eb5c774eb4c50f73bf2",
     "url": "/starwars-redux/static/css/2.25d2a862.chunk.css"
   },
   {
-    "revision": "b4e3c3c3dde9999be1a1",
+    "revision": "89486fd8bf079685a614",
     "url": "/starwars-redux/static/css/main.10b93826.chunk.css"
   },
   {
-    "revision": "5e59516a0f4423bda71f",
-    "url": "/starwars-redux/static/js/2.8a204cd4.chunk.js"
+    "revision": "4eb5c774eb4c50f73bf2",
+    "url": "/starwars-redux/static/js/2.3df13ed2.chunk.js"
   },
   {
-    "revision": "b4f9955a46235ab5d9673fafd3d3f6c5",
-    "url": "/starwars-redux/static/js/2.8a204cd4.chunk.js.LICENSE"
+    "revision": "3f6aa4d1b94e64ba93470af92b79dbf5",
+    "url": "/starwars-redux/static/js/2.3df13ed2.chunk.js.LICENSE"
   },
   {
-    "revision": "b4e3c3c3dde9999be1a1",
-    "url": "/starwars-redux/static/js/main.f9acbfea.chunk.js"
+    "revision": "89486fd8bf079685a614",
+    "url": "/starwars-redux/static/js/main.6db0583e.chunk.js"
   },
   {
     "revision": "1bbea74d793c9d814080",
