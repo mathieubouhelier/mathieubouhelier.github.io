@@ -1,6 +1,6 @@
 {
   "name": "sd-01-week16-react-redux-starwars-datatable-filters",
-  "homepage": "https:\/\/mathieubouhelier.github.io/redux-starwars-database-filters",
+  "homepage": "https://mathieubouhelier.github.io/redux-starwars-database-filters",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
