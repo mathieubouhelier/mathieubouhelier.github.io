@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/starwars-redux/build/static/css/main.61ec92bf.chunk.css",
+    "main.js": "/starwars-redux/build/static/js/main.f9acbfea.chunk.js",
+    "main.js.map": "/starwars-redux/build/static/js/main.f9acbfea.chunk.js.map",
+    "runtime-main.js": "/starwars-redux/build/static/js/runtime-main.3ad5a088.js",
+    "runtime-main.js.map": "/starwars-redux/build/static/js/runtime-main.3ad5a088.js.map",
+    "static/css/2.25d2a862.chunk.css": "/starwars-redux/build/static/css/2.25d2a862.chunk.css",
+    "static/js/2.8a204cd4.chunk.js": "/starwars-redux/build/static/js/2.8a204cd4.chunk.js",
+    "static/js/2.8a204cd4.chunk.js.map": "/starwars-redux/build/static/js/2.8a204cd4.chunk.js.map",
+    "index.html": "/starwars-redux/build/index.html",
+    "precache-manifest.657fde12c6f5d34870a3fa68798e393c.js": "/starwars-redux/build/precache-manifest.657fde12c6f5d34870a3fa68798e393c.js",
+    "service-worker.js": "/starwars-redux/build/service-worker.js",
+    "static/css/2.25d2a862.chunk.css.map": "/starwars-redux/build/static/css/2.25d2a862.chunk.css.map",
+    "static/css/main.61ec92bf.chunk.css.map": "/starwars-redux/build/static/css/main.61ec92bf.chunk.css.map",
+    "static/js/2.8a204cd4.chunk.js.LICENSE": "/starwars-redux/build/static/js/2.8a204cd4.chunk.js.LICENSE",
+    "static/media/MainContainer.css": "/starwars-redux/build/static/media/deadstar.76de0b16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ad5a088.js",
+    "static/css/2.25d2a862.chunk.css",
+    "static/js/2.8a204cd4.chunk.js",
+    "static/css/main.61ec92bf.chunk.css",
+    "static/js/main.f9acbfea.chunk.js"
+  ]
+}
