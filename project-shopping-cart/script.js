@@ -36,7 +36,7 @@ async function sumPrice() {
   const cartListLi = document.querySelectorAll('.cart__item');
   let sum = 0;
   cartListLi.forEach(index => (sum += parseFloat(index.innerText.split('$')[1])));
-  sum = Math.round(sum * 100) / 100;
+  // sum = Math.round(sum * 100) / 100; to round the price but Cypress doen't accept
   document.querySelector('.total-price').innerText = sum;
 }
 
@@ -99,14 +99,14 @@ function loadCart() {
   const cartListOl = document.getElementsByClassName('cart__items');
   cartListOl[0].innerHTML = localStorage.getItem('cartItem');
 }
-// let query = 'computador'; // this query is the keyword of fltch search
+// let query = 'computador'; // this query is the keyword of fetch search
 const launchFetch = (query) => {
   console.log('query inside', query);
   const cartListOl = document.getElementsByClassName('items');
   while (cartListOl[0].firstChild) {
     cartListOl[0].removeChild(cartListOl[0].firstChild);
   }
-  containerElement[0].appendChild(span); // create a tempory span during flecth loading
+  containerElement[0].appendChild(span); // create a tempory span during fetch loading
   fetch(`https://api.mercadolibre.com/sites/MLB/search?q=${query})`)
     .then(response => response.json())
     .then((data) => {
@@ -122,14 +122,13 @@ const launchFetch = (query) => {
     .catch(error => console.log(error));
 };
 
-// const query = 'computador'; // this query is the keyword of fltch search
+// const query = 'computador'; // this query is the keyword of fetch search
 const searchInput = document.querySelector('.search-input');
-span.innerText = 'loading...'; // text displayed during flecth loading
-span.className = 'loading'; // Class of flecth loading
+span.innerText = 'loading...'; // text displayed during fetch loading
+span.className = 'loading'; // Class of fetch loading
 
 document.body.addEventListener('click', function (event) {  // find the Id of the clicked add to cart button
-  console.log(event.target.className); // to remove
-  console.log('hello'); // to remov
+
   if (event.target.className === 'item__add') {
     createCartAsync(
       event.target.parentNode.querySelector('span.item__sku').innerText);
