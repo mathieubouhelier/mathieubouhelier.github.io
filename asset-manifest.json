@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/starwars-redux/static/css/main.10b93826.chunk.css",
-    "main.js": "/starwars-redux/static/js/main.6db0583e.chunk.js",
-    "main.js.map": "/starwars-redux/static/js/main.6db0583e.chunk.js.map",
-    "runtime-main.js": "/starwars-redux/static/js/runtime-main.ea517e44.js",
-    "runtime-main.js.map": "/starwars-redux/static/js/runtime-main.ea517e44.js.map",
-    "static/css/2.25d2a862.chunk.css": "/starwars-redux/static/css/2.25d2a862.chunk.css",
-    "static/js/2.3df13ed2.chunk.js": "/starwars-redux/static/js/2.3df13ed2.chunk.js",
-    "static/js/2.3df13ed2.chunk.js.map": "/starwars-redux/static/js/2.3df13ed2.chunk.js.map",
-    "index.html": "/starwars-redux/index.html",
-    "precache-manifest.1474818da5c389a194bcf13f7b73840f.js": "/starwars-redux/precache-manifest.1474818da5c389a194bcf13f7b73840f.js",
-    "service-worker.js": "/starwars-redux/service-worker.js",
-    "static/css/2.25d2a862.chunk.css.map": "/starwars-redux/static/css/2.25d2a862.chunk.css.map",
-    "static/css/main.10b93826.chunk.css.map": "/starwars-redux/static/css/main.10b93826.chunk.css.map",
-    "static/js/2.3df13ed2.chunk.js.LICENSE": "/starwars-redux/static/js/2.3df13ed2.chunk.js.LICENSE",
-    "static/media/MainContainer.css": "/starwars-redux/static/media/deadstar.76de0b16.png"
+    "main.css": "/testcss/static/css/main.cdedd035.chunk.css",
+    "main.js": "/testcss/static/js/main.eba2a674.chunk.js",
+    "main.js.map": "/testcss/static/js/main.eba2a674.chunk.js.map",
+    "runtime-main.js": "/testcss/static/js/runtime-main.2e959c0d.js",
+    "runtime-main.js.map": "/testcss/static/js/runtime-main.2e959c0d.js.map",
+    "static/js/2.2b5f052d.chunk.js": "/testcss/static/js/2.2b5f052d.chunk.js",
+    "static/js/2.2b5f052d.chunk.js.map": "/testcss/static/js/2.2b5f052d.chunk.js.map",
+    "static/js/3.c4195b2f.chunk.js": "/testcss/static/js/3.c4195b2f.chunk.js",
+    "static/js/3.c4195b2f.chunk.js.map": "/testcss/static/js/3.c4195b2f.chunk.js.map",
+    "index.html": "/testcss/index.html",
+    "static/css/main.cdedd035.chunk.css.map": "/testcss/static/css/main.cdedd035.chunk.css.map",
+    "static/js/2.2b5f052d.chunk.js.LICENSE.txt": "/testcss/static/js/2.2b5f052d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea517e44.js",
-    "static/css/2.25d2a862.chunk.css",
-    "static/js/2.3df13ed2.chunk.js",
-    "static/css/main.10b93826.chunk.css",
-    "static/js/main.6db0583e.chunk.js"
+    "static/js/runtime-main.2e959c0d.js",
+    "static/js/2.2b5f052d.chunk.js",
+    "static/css/main.cdedd035.chunk.css",
+    "static/js/main.eba2a674.chunk.js"
   ]
 }
